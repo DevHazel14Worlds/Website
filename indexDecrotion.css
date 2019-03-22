@@ -1,0 +1,53 @@
+#topbondlist
+{
+    display: flow-root;
+ list-style-type: none;
+ font-size: 32px; 
+ text-align: center;
+ margin-left: 1.75in;
+ width: 10.25in;
+ height: 60px;
+}
+#topbondlist li
+{
+display: inline-block;
+background: rgba(20,20,20,0.50);
+margin: -4px;
+vertical-align: -25%;
+padding: 5px;
+box-shadow: 0px 0px 20px;
+}
+#topbondlist li a
+{
+    padding: 0%;
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+    transition: 0.5s;
+}
+#topbondlist :hover 
+{
+ box-shadow: inset 0px 0px 20px 100px rgba(0,0,0,1);
+ opacity: 0.7;
+}
+#Body 
+{
+ display: inline;
+ box-align: center;
+ text-align: center;
+ background-color:aliceblue;
+ background-image: url("");
+}
+#BodyC
+{
+border: black solid 1px; 
+padding: 5px;
+padding-top: 12px;
+box-shadow: -5px 5px 50px 0px rgba(0,0,0, .25); 
+background: rgb(255, 255, 255, 0.5);
+margin-left: 12.5%;
+text-align: center;
+width: 75%;
+height: 10in;
+}
