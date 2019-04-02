@@ -39,7 +39,7 @@ box-shadow: 0px 0px 20px 3px rgba(0,0,0, 1);
  background-color:aliceblue;
  background-image: url("");
 }
-#BodyC
+.BodyDiv
 {
 border: black solid 1px; 
 padding: 5px;
@@ -47,13 +47,13 @@ padding-top: 12px;
 box-shadow: -5px 5px 45px 0px rgba(0,0,0, .5),
           inset 0px 0px 50px rgba(0,0,0, .5); 
 background: rgb(255, 255, 255, 0.5);
-margin-left: 10%;
-margin-right: 10%; 
+margin-left: 7.5%;
+margin-right: 7.5%; 
 text-align: center;
-width: 80%;
+width: 85%;
 height: 100in;
 }
 #image
 {
-    display: inline-block;
+    
 }
